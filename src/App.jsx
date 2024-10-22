@@ -1,6 +1,6 @@
+import "./app.css";
 import { Routes, Route } from "react-router-dom";
 
-import "./app.css";
 import Fire from "./assets/fire.png";
 import Star from "./assets/glowing-star.png";
 import Party from "./assets/partying-face.png";
